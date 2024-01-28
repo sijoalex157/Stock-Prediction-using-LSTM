@@ -1,4 +1,7 @@
 **ITC Stock Price Prediction using LSTM**
+
+
+
 This project aims to predict the closing price of ITC stock for the next 30 days using Long Short-Term Memory (LSTM) neural networks.
 ![image](https://github.com/sijoalex157/Stock-Prediction-using-LSTM/assets/136322927/eeeffb84-d999-47ef-8512-248258e49ccb)
 
